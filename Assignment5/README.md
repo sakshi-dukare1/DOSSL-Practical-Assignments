@@ -161,11 +161,27 @@ Once all Pods are ready, the Deployment should show three available replicas.
 ## Screenshots
 
 
-1. `Screenshot1.png` – Minikube cluster started and node status, Docker image loaded into 
+ ### Screenshot 1: Minikube cluster started and node status, Docker image loaded into 
 Minikube.
-2. `Screenshot2.png` – Kubernetes Deployment created,Pods running successfully,Pods running successfully.
-3. `Screenshot3.png` – Deployment scaled to three replicas.
-4. `Screenshot4.png` – Application opened using Minikube Service.
+![Minikube cluster started and node status, Docker image loaded into 
+Minikube.](Screenshot1.png)
+
+---
+
+### Screenshot 2: Kubernetes Deployment created,Pods running successfully,Pods running successfully.
+![Kubernetes Deployment created,Pods running successfully,Pods running successfully.](Screenshot2.png)
+
+---
+
+### Screenshot 3:Deployment scaled to three replicas.
+![Deployment scaled to three replicas.](Screenshot3.png)
+
+---
+
+### Screenshot 4: Application opened using Minikube Service.
+![Application opened using Minikube Service.](Screenshot4.png)
+
+---
 
 
 
