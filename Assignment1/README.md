@@ -19,7 +19,7 @@ This screenshot shows the Git repository, its status, and the commit operation.
 
 **Add Screenshot 1 below:**
 
-![Screenshot 1: Git Repository, Status, and Commit](screenshot1.png)
+![Screenshot1: Git Repository, Status, and Commit](screenshot1.png)
 
 ---
 
@@ -28,7 +28,7 @@ This screenshot shows the Git branch and the operation of pushing changes to Git
 
 **Add Screenshot 2 below:**
 
-![Screenshot 2: Branch Creation and Push](screenshot2.png)
+![Screenshot2: Branch Creation and Push](screenshot2.png)
 
 ---
 
@@ -37,7 +37,7 @@ This screenshot shows the pull and merge operations and the final Git repository
 
 **Add Screenshot 3 below:**
 
-![Screenshot 3: Pull, Merge, and Final Verification](screenshot3.png)
+![Screenshot3: Pull, Merge, and Final Verification](screenshot3.png)
 
 ---
 
