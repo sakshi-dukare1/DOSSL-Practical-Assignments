@@ -73,12 +73,22 @@ Finished: SUCCESS
 ```
 
 
-## Screenshots
-Add your screenshots in this section.
+### Screenshot 1: Jenkins dashboard.
 
-1. `Screenshot1.png` – Jenkins dashboard.
-2. `Screenshot2.png` – Build steps configuration.
-3. `Screenshot3.png` – Console Output showing `Finished: SUCCESS`. completed build.
+![Screenshot 1:  Jenkins dashboard.](Screenshot1.png)
+
+---
+
+### Screenshot 2: Build steps configuration.
+
+![Screenshot 2:  Build steps configuration.](Screenshot2.png)
+
+---
+
+### Screenshot 3: Console Output showing `Finished: SUCCESS`. completed build.
+
+![Screenshot 3:  Console Output showing `Finished: SUCCESS`. completed build.](Screenshot3.png)
+
 
 
 ## Result
