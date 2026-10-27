@@ -88,19 +88,19 @@ A value of `1` indicates that a target is reachable; `0` indicates that Promethe
 
 ---
 
-### Screenshot 2:prometheus_build_info
+### Screenshot 2: prometheus_build_info
 
 ![Screenshot2: prometheus_build_info](Screenshot2.png)
 
 ---
 
-### Screenshot 3:process_resident_memory_bytes
+### Screenshot 3: process_resident_memory_bytes
 
 ![Screenshot3:process_resident_memory_bytes](Screenshot3.png)
 
 
 ### Screenshot 4: scrape_duration_seconds
 
-![Screenshot4 :scrape_duration_seconds](Screenshot3.png)
+![Screenshot4 :scrape_duration_seconds](Screenshot4.png)
 ## Result
 Prometheus was configured and run using Docker. The Prometheus web interface was used to query the `up` metric and inspect the status of the configured monitoring target.
