@@ -82,13 +82,25 @@ up
 
 A value of `1` indicates that a target is reachable; `0` indicates that Prometheus cannot scrape that target successfully.
 
-## Screenshots
-Add your actual screenshots to this section.
+### Screenshot 1: up
 
-1. `Screenshot1.png` – Prometheus configuration file.
-2. `Screenshot2.png` – Prometheus Docker container running.
-3. `Screenshot3.png` – Prometheus web interface at `localhost:9090`.
-4. `Screenshot4.png` – Query result for the `up` metric.
+![Screenshot1: up](Screenshot1.png)
 
+---
+
+### Screenshot 2:prometheus_build_info
+
+![Screenshot2: prometheus_build_info](Screenshot2.png)
+
+---
+
+### Screenshot 3:process_resident_memory_bytes
+
+![Screenshot3:process_resident_memory_bytes](Screenshot3.png)
+
+
+### Screenshot 4: scrape_duration_seconds
+
+![Screenshot4 :scrape_duration_seconds](Screenshot3.png)
 ## Result
 Prometheus was configured and run using Docker. The Prometheus web interface was used to query the `up` metric and inspect the status of the configured monitoring target.
