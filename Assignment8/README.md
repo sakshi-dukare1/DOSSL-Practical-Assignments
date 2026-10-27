@@ -96,7 +96,7 @@ The dashboard can now display the metrics returned by Prometheus.
 ![Grafana Docker Container](Screenshot1.png)
 
 ### Screenshot 2: Monitoring Dashboard
-![Grafana Web Interface](Screenshot2.png)
+![Grafana Web Interface](Screenshot2.jpg)
 
 
 ## Result
